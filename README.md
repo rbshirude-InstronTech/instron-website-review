@@ -19,3 +19,6 @@ How We Work: each phase (Basic Engineering & Feasibility, Detailed Engineering, 
 `review-tracker.html` is the internal review, QA and design-options tracker (linked from the Website Index page). Its shared data lives in `tracker-data.json`: export from the tracker page and upload over this file to publish updates. The page is public on GitHub Pages, so never record passwords, keys, personal data or unfixed security weaknesses in it.
 
 This compact deployment contains the website review only. Management records, approval files and source archives are maintained separately.
+
+## v2.17 (22 Nov 2026): privacy and security baseline
+Content-Security-Policy and Referrer-Policy meta tags on every page; draft global privacy notice and "Your privacy rights by region" on the Privacy page (marked draft for legal review); privacy notes beside the contact form and on Careers. The site still sets no cookies and loads no third-party resources. Tracker: new Regional compliance tab (RC-01 to RC-21).
