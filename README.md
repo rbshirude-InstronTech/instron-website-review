@@ -25,3 +25,10 @@ Content-Security-Policy and Referrer-Policy meta tags on every page; draft globa
 
 ## v2.18 (22 Nov 2026): privacy decisions applied
 Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP for India, the Middle East and Southeast Asia); privacy and grievance officer Rahul Shirude, privacy@instrontechnologies.com; retention 24 months for enquiries and 12 months for unsuccessful applicants; cookieless analytics only; French and Spanish notices planned for launch.
+
+## v2.23 (24 Nov 2026): Milind's review
+- Privacy, Terms & Accessibility: internal checklists and draft wording removed from the public page; the to-dos are tracker point LEG-08.
+- Sitewide: pill buttons and tags; the menu tab of the current page is highlighted.
+- Home: shorter hero so the proof strip shows on the first laptop screen; icons on the customer-type tiles; applications as icon cards; Instron Technologies zone drawn inside the TRL chart; project title above the image with Project Portfolio and Case Studies buttons.
+- Project Portfolio and Case Studies: title above the image.
+- Tracker: MS-01 to MS-13 (Milind's points), CT-20 to CT-22 (accuracy reads), LEG-08.
