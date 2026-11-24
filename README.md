@@ -43,3 +43,4 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 
 ## v2.24.1 (24 Nov 2026)
 - Saudi research-university claim now reads "8+ projects with one research university since 2024" (Research & Technology Development, Project Portfolio, Case Studies). Tracker SR-07 closed.
+- v2.24.2: wording aligned sitewide to "8+ research projects in Saudi Arabia since 2024", matching Our Company; no "one university" claim.

@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-24",
- "updatedBy": "v2.24.1: Saudi research-university wording (SR-07 closed)",
+ "updatedBy": "v2.24.2: Saudi wording aligned sitewide (SR-07)",
  "reviewSite": "https://rbshirude-instrontech.github.io/instron-website-review/",
  "repo": "rbshirude-instrontech/instron-website-review",
  "people": [
@@ -8506,9 +8506,9 @@
    "reviewer": "Rahul Shirude",
    "priority": "P1",
    "status": "Implemented",
-   "notes": "Source: Sumit (Industries, Energy Transition, Research) and Anjali Sinkar (PlantON, OEE), page captures in Drive folder 1AKxYd91dr8MnKbDpf05CIfedLDfTq2uf, 24 Nov 2026. Dispositions: project doc claude/sumit-feedback-review-2026-11-24.md. v2.24.1: applied on the R&TD case card and FAQ, the Project Portfolio card and the Case Studies carbon-capture case.",
+   "notes": "Source: Sumit (Industries, Energy Transition, Research) and Anjali Sinkar (PlantON, OEE), page captures in Drive folder 1AKxYd91dr8MnKbDpf05CIfedLDfTq2uf, 24 Nov 2026. Dispositions: project doc claude/sumit-feedback-review-2026-11-24.md. v2.24.1: applied on the R&TD case card and FAQ, the Project Portfolio card and the Case Studies carbon-capture case. v2.24.2: \"one research university\" wording removed; all pages match Our Company (\"8+ research projects in Saudi Arabia\").",
    "options": [],
-   "decision": "8+ projects with one research university since 2024 (Rahul, 24 Nov 2026)",
+   "decision": "8+ research projects in Saudi Arabia since 2024, used sitewide (Rahul, 24 Nov 2026)",
    "designOptions": false,
    "id": "SR-07",
    "ws": "content",
