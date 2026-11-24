@@ -40,3 +40,6 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Production Visibility & OEE: new OEE and loss-analysis dashboards (illustrative, sample data) and the downtime calculation.
 - Sitewide: PlantON trademark mark larger; FAQ questions with the PlantON wordmark no longer split.
 - Tracker: SR-01 to SR-07 (SR-07 is the open Saudi wording decision).
+
+## v2.24.1 (24 Nov 2026)
+- Saudi research-university claim now reads "8+ projects with one research university since 2024" (Research & Technology Development, Project Portfolio, Case Studies). Tracker SR-07 closed.
