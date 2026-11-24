@@ -32,3 +32,11 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Home: shorter hero so the proof strip shows on the first laptop screen; icons on the customer-type tiles; applications as icon cards; Instron Technologies zone drawn inside the TRL chart; project title above the image with Project Portfolio and Case Studies buttons.
 - Project Portfolio and Case Studies: title above the image.
 - Tracker: MS-01 to MS-13 (Milind's points), CT-20 to CT-22 (accuracy reads), LEG-08.
+
+## v2.24 (24 Nov 2026): round-2 page feedback
+- Industries: new hero; stats are 300+ industrial solutions and Engineering since 2013 (Canadian figures moved to the Toronto office card on Global Presence; Portfolio strip updated the same way); industry card lines and CTA description.
+- Energy Transition & Critical Minerals and Research & Technology Development: new heroes; Process Skid Plants shown as the core solution with Pilot & Demonstration Plants and Industrial Process Skids inside it, then Industrial Automation and PlantON; Research stakeholder, start and closing sections rewritten; funding wording removed.
+- PlantON: hero slideshow of three dashboards (pasteurizer, OEE, loss analysis), OEE in the hero line, loss-analysis image and role icons, connected deployment steps.
+- Production Visibility & OEE: new OEE and loss-analysis dashboards (illustrative, sample data) and the downtime calculation.
+- Sitewide: PlantON trademark mark larger; FAQ questions with the PlantON wordmark no longer split.
+- Tracker: SR-01 to SR-07 (SR-07 is the open Saudi wording decision).
