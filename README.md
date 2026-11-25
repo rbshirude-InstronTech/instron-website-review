@@ -50,3 +50,12 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Global Presence & Partners: new "Our partners" section after the company offices, listing BusinessDMX (Mexico), Mafave (Mexico) and Chemponics (Netherlands) by name and country (Rahul, 25 Nov). Logo slots are in place and hidden until logo files arrive (tracker SR3-02). The locations list stays partner-free.
 - Sitewide: sales@instrontechnologies.ca replaced by sales@instrontechnologies.com (79 places), matching the 24 Nov decision already applied in the preview build.
 - Round-3 page feedback (Sumit, 71 notes): dispositions in project doc claude/sumit-feedback-review-2026-11-25.md; remaining changes not yet applied.
+
+## v2.29 (25 Nov 2026): round-3 page feedback (Sumit, 71 notes)
+- Industry pages (Chemicals, Food, Pharma, Manufacturing, plus Energy Transition and Research links): proof strips removed; "Common challenges" headings; Process Skid Plants first with the Core solution badge (Manufacturing shows Industrial Automation and PlantON, with OEE inside PlantON); new recovery and delivery steps; CTA description lines; PlantON in Where to go next; "See all ... projects" links open the matching industry filter.
+- Project Portfolio: new industry filter row; solution filter and the 15-card "show more" limit work again (a `display:grid !important` card rule had overridden them).
+- How We Work: scoped to Process Skid Plants (Automation and PlantON point to their own delivery steps); phase sub-links removed from the header menu on every page; hero strips removed; five project inputs; compact phase strip; decision at the end of each phase; engagement steps and CTA updated.
+- Our Company: company story; three solutions only (Project delivery card removed); four customer groups; "Our engineering philosophy"; founder photos on the people card.
+- Leadership: founders shown without titles or degrees (Rahul, 25 Nov); manager degrees removed; Digital and information technology discipline added.
+- Global Presence: new H1, "One engineering team, close to your project", international CTA. Trust: credentials-on-request line, assurance CTA. Careers: careers@instrontechnologies.com, discipline names, application checklist, CTA. Insights: new hero and heading, category cards removed.
+- Tracker: SR3-03 implemented; SR3-04 to SR3-06 open (ecosystem logos, CSR photos, careers@ mailbox).
