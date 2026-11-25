@@ -45,3 +45,8 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Saudi research-university claim now reads "8+ projects with one research university since 2024" (Research & Technology Development, Project Portfolio, Case Studies). Tracker SR-07 closed.
 - v2.24.2: wording aligned sitewide to "8+ research projects in Saudi Arabia since 2024", matching Our Company; no "one university" claim.
 - v2.24.3: PlantON described as keeping its own database (PlantON page how-it-works, new database card, callout and FAQ; Industrial Automation information layer).
+
+## v2.28 (25 Nov 2026): partners section
+- Global Presence & Partners: new "Our partners" section after the company offices, listing BusinessDMX (Mexico), Mafave (Mexico) and Chemponics (Netherlands) by name and country (Rahul, 25 Nov). Logo slots are in place and hidden until logo files arrive (tracker SR3-02). The locations list stays partner-free.
+- Sitewide: sales@instrontechnologies.ca replaced by sales@instrontechnologies.com (79 places), matching the 24 Nov decision already applied in the preview build.
+- Round-3 page feedback (Sumit, 71 notes): dispositions in project doc claude/sumit-feedback-review-2026-11-25.md; remaining changes not yet applied.

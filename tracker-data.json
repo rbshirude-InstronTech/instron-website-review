@@ -1,7 +1,7 @@
 {
  "version": 1,
- "updated": "2026-11-24",
- "updatedBy": "v2.24.2: Saudi wording aligned sitewide (SR-07)",
+ "updated": "2026-11-25",
+ "updatedBy": "v2.28: partners section on Global Presence (SR3-01), partner logos open (SR3-02); sales@ .com only",
  "reviewSite": "https://rbshirude-instrontech.github.io/instron-website-review/",
  "repo": "rbshirude-instrontech/instron-website-review",
  "people": [
@@ -8513,6 +8513,44 @@
    "id": "SR-07",
    "ws": "content",
    "title": "Decision: Saudi research-university wording"
+  },
+  {
+   "type": "task",
+   "page": "global",
+   "section": "Our partners",
+   "sectionId": "partners",
+   "owner": "Sumit",
+   "reviewer": "Rahul Shirude",
+   "options": [],
+   "decision": "",
+   "designOptions": false,
+   "id": "SR3-01",
+   "ws": "regional",
+   "area": "Content",
+   "priority": "P2",
+   "status": "Implemented",
+   "title": "Round 3: Partners section on Global Presence & Partners",
+   "detail": "New \"Our partners\" section after the company offices: BusinessDMX (Mexico), Mafave (Mexico), Chemponics (Netherlands). Name and country only, no relationship labels (Rahul, 25 Nov).",
+   "notes": "Source: Sumit, round 3 page captures (11 pages, 71 notes) in Drive folder 1AKxYd91dr8MnKbDpf05CIfedLDfTq2uf, 24 to 25 Nov 2026. Dispositions: project doc claude/sumit-feedback-review-2026-11-25.md. v2.28. Rahul 25 Nov: add the section now, logos later. Locations list stays partner-free."
+  },
+  {
+   "type": "task",
+   "page": "global",
+   "section": "Our partners",
+   "sectionId": "partners",
+   "owner": "Sumit",
+   "reviewer": "Rahul Shirude",
+   "options": [],
+   "decision": "",
+   "designOptions": false,
+   "id": "SR3-02",
+   "ws": "regional",
+   "area": "Design",
+   "priority": "P2",
+   "status": "Open",
+   "title": "Partner logos and listing consent",
+   "detail": "Get logo files from BusinessDMX (David Valle), Mafave (Sergio Gonzalez) and Chemponics (Andert van der Kraan), with each partner's OK to be listed. Logo slots are in place and hidden until a logo is added (remove data-logo-pending and add the img).",
+   "notes": "Source: Sumit, round 3 page captures (11 pages, 71 notes) in Drive folder 1AKxYd91dr8MnKbDpf05CIfedLDfTq2uf, 24 to 25 Nov 2026. Dispositions: project doc claude/sumit-feedback-review-2026-11-25.md. Confirm the Mafave partnership agreement is signed. Do not describe Chemponics as EU representative until the Article 27 mandate is signed."
   }
  ]
 }
