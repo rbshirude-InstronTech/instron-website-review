@@ -59,3 +59,9 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Leadership: founders shown without titles or degrees (Rahul, 25 Nov); manager degrees removed; Digital and information technology discipline added.
 - Global Presence: new H1, "One engineering team, close to your project", international CTA. Trust: credentials-on-request line, assurance CTA. Careers: careers@instrontechnologies.com, discipline names, application checklist, CTA. Insights: new hero and heading, category cards removed.
 - Tracker: SR3-03 implemented; SR3-04 to SR3-06 open (ecosystem logos, CSR photos, careers@ mailbox).
+
+## v2.30 (25 Nov 2026): pilot-plant wording (industry advisor feedback)
+- Pilot page: title and H1 "Pilot Plants & Demonstration Plants" (menu and breadcrumb keep the short name); new card "Proven in refinery research" in Research and pilot systems, linking to the refinery research pilots case; case label now "Carbon capture and hydrogen pilots for refinery research, India".
+- Home: banner sentence and page description say "from pilot plants and demonstration plants to industrial skids".
+- Preview build: search titles "Pilot Plants & Process Skid Plants | Instron Technologies" (Home) and "Pilot Plants & Demonstration Plants | Instron Technologies" (pilot page), with matching descriptions and share image.
+- Oil & gas industry naming is still a separate open decision.
