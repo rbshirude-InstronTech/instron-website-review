@@ -72,3 +72,4 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - One icon set (Lucide, ISC licence). Page styles in `<style id="instron-v235">` on each changed page; builder: tools/v235_review.py in the preview repo (re-runnable from this repo's committed index.html).
 - Preview-only parts (live theme): closing band with photo and green diagonal on every page, footer location chips, IRA start-card tint, and the IRA "Not sure this fits your process?" prompt as a light card (fixes grey text on navy).
 - Still to come: About Us pages (Sumit's captures due 27 Nov).
+- v2.35.1 (26 Nov): the six Industries pages take the same approved layouts by section type (problem cards 2 x 2 with icons, How we help icon cards, numbered step rail, stakeholder icon columns, recovery/CIP icon list beside the photo, inputs checklist, related link rows). Builder: tools/v2351_industries.py in the preview repo. Styles in `<style id="instron-v2351">`.
