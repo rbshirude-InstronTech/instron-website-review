@@ -65,3 +65,10 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Home: banner sentence and page description say "from pilot plants and demonstration plants to industrial skids".
 - Preview build: search titles "Pilot Plants & Process Skid Plants | Instron Technologies" (Home) and "Pilot Plants & Demonstration Plants | Instron Technologies" (pilot page), with matching descriptions and share image.
 - Oil & gas industry naming is still a separate open decision.
+
+## v2.35 (26 Nov 2026): design layouts (Sumit's suggestions, approved by Rahul)
+- Section layouts from Sumit's "Design Layout Suggestions" (26 Nov), chosen page by page by Rahul in the design review (https://claude.ai/artifact/Ft5h8Azz3pbrxEu3pKUuRD). Layout only: no copy, figures or claims changed.
+- Home (11 sections), Process Skid Plants (9), Pilot & Demonstration Plants (3), Industrial Automation (6 changed, project cards kept), PlantON (8), How We Work (4), Project Portfolio (stage rail) and Case Studies (link cards).
+- One icon set (Lucide, ISC licence). Page styles in `<style id="instron-v235">` on each changed page; builder: tools/v235_review.py in the preview repo (re-runnable from this repo's committed index.html).
+- Preview-only parts (live theme): closing band with photo and green diagonal on every page, footer location chips, IRA start-card tint, and the IRA "Not sure this fits your process?" prompt as a light card (fixes grey text on navy).
+- Still to come: About Us pages (Sumit's captures due 27 Nov).
