@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-27",
- "updatedBy": "v2.43: 24/7 service support on Home (SP-01); forms plugin built, install open (CT-13, SP-02)",
+ "updatedBy": "v2.44: customer testimonials (CS-11)",
  "reviewSite": "https://rbshirude-instrontech.github.io/instron-website-review/",
  "repo": "rbshirude-instrontech/instron-website-review",
  "people": [
@@ -5514,8 +5514,8 @@
    "owner": "Sumit",
    "reviewer": "Nasrin Ejner",
    "priority": "P2",
-   "status": "Open",
-   "notes": "",
+   "status": "Implemented",
+   "notes": "27 Nov (v2.44): five live-site testimonials published with role and customer type only (Home, Process Skid Plants, Industrial Automation, PlantON). Sumit pointer 2, approved by Rahul 26 Nov.",
    "options": [],
    "decision": "",
    "designOptions": false,

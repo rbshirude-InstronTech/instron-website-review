@@ -89,3 +89,9 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Home figures band: fifth figure "24/7 service support", linked to Contact (builder tools/v243_support.py in the preview repo).
 - Website forms: WordPress plugin "Instron Technologies Forms" in the preview repo at deploy/instron-forms (zip: deploy/instron-forms.zip). Contact enquiries go by authenticated Workspace SMTP to sales@ and create an ERPNext Lead; optional careers applications go to careers@ with the CV attached. No third-party form service, nothing stored in WordPress. Setup and tests in deploy/instron-forms/README.md. Tracker CT-13 in progress, SP-01 implemented, SP-02 open (install and test).
 - Note: commit 1baf403 briefly published index.html with merge-conflict markers; fixed in the next commit.
+
+## v2.44 (27 Nov 2026): customer testimonials (Sumit pointer 2, Rahul 26 Nov)
+- Home: "In our customers’ words" after Selected Projects, the five testimonials from the live site in solutions order, each tagged with its solution. Process Skid Plants (after the case studies), Industrial Automation and PlantON (before the FAQ): one matching quote each.
+- Attribution is role and customer type only (no person or company names); "Customer names are withheld. References are available on request."
+- Light edits only: spelling, IoT and PlantON™ styling, punctuation; the die-casting quote is trimmed to its outcome sentences.
+- Builder: tools/v244_testimonials.py in the preview repo; styles in `<style id="instron-v244">`. Tracker CS-11 implemented.
