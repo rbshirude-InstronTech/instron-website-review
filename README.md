@@ -73,3 +73,8 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - Preview-only parts (live theme): closing band with photo and green diagonal on every page, footer location chips, IRA start-card tint, and the IRA "Not sure this fits your process?" prompt as a light card (fixes grey text on navy).
 - Still to come: About Us pages (Sumit's captures due 27 Nov).
 - v2.35.1 (26 Nov): the six Industries pages take the same approved layouts by section type (problem cards 2 x 2 with icons, How we help icon cards, numbered step rail, stakeholder icon columns, recovery/CIP icon list beside the photo, inputs checklist, related link rows). Builder: tools/v2351_industries.py in the preview repo. Styles in `<style id="instron-v2351">`.
+
+## v2.36 (27 Nov 2026): PlantON™ on every mention (Rahul, 26 Nov)
+- The ™ now follows every visible PlantON mention on all 36 pages: header menu, headings, body, cards, FAQs, buttons, filter labels, solution and card tags, the footer Solutions list and the footer trademark line (180 wordmarks and 57 plain-text mentions). Replaces the v2.11 rule of the first header and first body mention only.
+- Contact form option reads "PlantON™ / industrial data". Alt text and meta descriptions are unchanged.
+- Builder: tools/v236_tm.py in the preview repo (re-runnable; skips mentions that already carry the mark).
