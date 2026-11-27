@@ -84,3 +84,8 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - End-user types in the agreed industry order; no customer names; "References are available on request".
 - Builder: tools/v237_footprint.py in the preview repo (country outlines in tools/v237_countries.json). Styles in `<style id="instron-v237">`. Tracker: FP-01 (implemented), FP-02 (open: Home link and per-country industry lines).
 - v2.37.2 (27 Nov, Rahul 26 Nov): headline now "Installed for 200+ customers in 12 countries."; India regions listed West, North, South, Central and East.
+
+## v2.43 (27 Nov 2026): Sumit's pointers 4 and 5 (Rahul, 26 Nov)
+- Home figures band: fifth figure "24/7 service support", linked to Contact (builder tools/v243_support.py in the preview repo).
+- Website forms: WordPress plugin "Instron Technologies Forms" in the preview repo at deploy/instron-forms (zip: deploy/instron-forms.zip). Contact enquiries go by authenticated Workspace SMTP to sales@ and create an ERPNext Lead; optional careers applications go to careers@ with the CV attached. No third-party form service, nothing stored in WordPress. Setup and tests in deploy/instron-forms/README.md. Tracker CT-13 in progress, SP-01 implemented, SP-02 open (install and test).
+- Note: commit 1baf403 briefly published index.html with merge-conflict markers; fixed in the next commit.
