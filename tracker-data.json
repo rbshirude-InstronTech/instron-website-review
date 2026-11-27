@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-27",
- "updatedBy": "FP-02: Home figures done in v2.41; per-country industry lines still open",
+ "updatedBy": "v2.42: 24/7 service support on Home (SP-01); forms plugin built, install open (CT-13, SP-02)",
  "reviewSite": "https://rbshirude-instrontech.github.io/instron-website-review/",
  "repo": "rbshirude-instrontech/instron-website-review",
  "people": [
@@ -7460,8 +7460,8 @@
    "owner": "Sumit",
    "reviewer": "Anjali Sinkar",
    "priority": "P1",
-   "status": "Open",
-   "notes": "Added 21 Nov 2026 (release-ready pass).",
+   "status": "In progress",
+   "notes": "Added 21 Nov 2026 (release-ready pass). 27 Nov (v2.42): plugin \"Instron Technologies Forms\" built (deploy/instron-forms in the preview repo): direct email via Workspace SMTP to sales@, ERPNext Lead via API, no third-party form service (Sumit pointer 5, approved by Rahul 26 Nov). Next: Sumit installs on the Bluehost WordPress, sets wp-config constants, runs the README tests.",
    "options": [],
    "decision": "",
    "designOptions": false,
@@ -8665,6 +8665,44 @@
    "title": "Footprint follow-up: per-country industry lines",
    "detail": "Optional: one industry line per country once confirmed (Kuwait, Illinois, Riyadh and Sri Lanka not yet evidenced in the footprint workbook). Home figures done in v2.41 (200+ customers, 12 countries, linked to the footprint section).",
    "notes": "Raised with v2.37."
+  },
+  {
+   "type": "task",
+   "section": "",
+   "sectionId": "",
+   "reviewer": "Rahul Shirude",
+   "options": [],
+   "decision": "",
+   "designOptions": false,
+   "area": "Content",
+   "id": "SP-01",
+   "page": "home",
+   "owner": "Sumit",
+   "ws": "content",
+   "priority": "P2",
+   "status": "Implemented",
+   "title": "24/7 service support figure on Home",
+   "detail": "Fifth figure on the Home figures band: 24/7 service support, linked to Contact.",
+   "notes": "Sumit pointer 4 (27 Nov email), approved by Rahul 26 Nov. v2.42."
+  },
+  {
+   "type": "task",
+   "section": "",
+   "sectionId": "",
+   "reviewer": "Rahul Shirude",
+   "options": [],
+   "decision": "",
+   "designOptions": false,
+   "area": "Content",
+   "id": "SP-02",
+   "page": "contact",
+   "owner": "Sumit",
+   "ws": "golive",
+   "priority": "P1",
+   "status": "Open",
+   "title": "Install the forms plugin on WordPress and test",
+   "detail": "Install deploy/instron-forms.zip on the Bluehost WordPress, add the wp-config constants (SMTP app password, ERPNext API user with Lead-create only), deactivate any third-party form plugin, run the six README tests.",
+   "notes": "Sumit pointer 5, approved by Rahul 26 Nov. v2.42."
   }
  ]
 }
