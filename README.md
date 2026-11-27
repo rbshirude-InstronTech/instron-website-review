@@ -1,4 +1,6 @@
-# Instron Technologies — Website Review (v2.2)
+# Instron Technologies — Website Review (retired)
+
+> **Retired 27 Nov 2026.** This navy review build is no longer updated and its GitHub Pages site is switched off. The only build and content master is now [instron-website-preview](https://github.com/rbshirude-instrontech/instron-website-preview) (live at https://rbshirude-instrontech.github.io/instron-website-preview/). The review tracker moved there as `review-tracker.html`.
 
 The complete 33-page review website is embedded in one index.html file, including its images, fonts, styles and scripts. Publish this repository root with GitHub Pages; no build step is required. JavaScript must be enabled for page navigation.
 
