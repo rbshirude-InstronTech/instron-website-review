@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-27",
- "updatedBy": "v2.37: installed footprint on Global Presence (FP-01); FP-02 open",
+ "updatedBy": "v2.37.2: 200+ customers in 12 countries; India region order (FP-01)",
  "reviewSite": "https://rbshirude-instrontech.github.io/instron-website-review/",
  "repo": "rbshirude-instrontech/instron-website-review",
  "people": [
@@ -8643,9 +8643,9 @@
    "id": "FP-01",
    "priority": "P1",
    "status": "Implemented",
-   "title": "Installed footprint: 12 countries on Global Presence",
+   "title": "Installed footprint: 200+ customers in 12 countries on Global Presence",
    "detail": "New \"Where our systems run\" section after \"Where we are\": map with the 12 countries and installation regions, list by area (Americas, Australia, Middle East, Asia, Europe), end-user types in the agreed industry order. No customer names.",
-   "notes": "Rahul, 26 Nov 2026: Canada (Ontario, Quebec), USA (California, Illinois), Mexico (Monterrey, Nuevo León), Australia (Sydney), Saudi Arabia (Riyadh, Jeddah), UAE, Kuwait, India (north, south, east, west, centre), Sri Lanka (Colombo), Thailand, Belgium, UK. Source register: Customer Footprint workbook v37. Project doc claude/installed-footprint-2026-11-26.md. v2.37."
+   "notes": "Rahul, 26 Nov 2026: Canada (Ontario, Quebec), USA (California, Illinois), Mexico (Monterrey, Nuevo León), Australia (Sydney), Saudi Arabia (Riyadh, Jeddah), UAE, Kuwait, India (north, south, east, west, centre), Sri Lanka (Colombo), Thailand, Belgium, UK. Source register: Customer Footprint workbook v37. Project doc claude/installed-footprint-2026-11-26.md. v2.37. v2.37.2 (Rahul, 26 Nov): headline \"Installed for 200+ customers in 12 countries\"; India listed West, North, South, Central, East."
   },
   {
    "type": "task",
