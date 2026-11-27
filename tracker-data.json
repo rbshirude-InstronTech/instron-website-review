@@ -1,7 +1,7 @@
 {
  "version": 1,
  "updated": "2026-11-27",
- "updatedBy": "v2.37.2: 200+ customers in 12 countries; India region order (FP-01)",
+ "updatedBy": "FP-02: Home figures done in v2.41; per-country industry lines still open",
  "reviewSite": "https://rbshirude-instrontech.github.io/instron-website-review/",
  "repo": "rbshirude-instrontech/instron-website-review",
  "people": [
@@ -8662,8 +8662,8 @@
    "id": "FP-02",
    "priority": "P2",
    "status": "Open",
-   "title": "Footprint follow-ups: Home link and per-country industry lines",
-   "detail": "Optional: a \"12 countries\" line on Home linking to the footprint section; one industry line per country once confirmed (Kuwait, Illinois, Riyadh and Sri Lanka not yet evidenced in the footprint workbook).",
+   "title": "Footprint follow-up: per-country industry lines",
+   "detail": "Optional: one industry line per country once confirmed (Kuwait, Illinois, Riyadh and Sri Lanka not yet evidenced in the footprint workbook). Home figures done in v2.41 (200+ customers, 12 countries, linked to the footprint section).",
    "notes": "Raised with v2.37."
   }
  ]
