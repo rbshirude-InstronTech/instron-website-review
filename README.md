@@ -78,3 +78,8 @@ Responsible entity by region (Inc. for the Americas, Europe and Australia; LLP f
 - The ™ now follows every visible PlantON mention on all 36 pages: header menu, headings, body, cards, FAQs, buttons, filter labels, solution and card tags, the footer Solutions list and the footer trademark line (180 wordmarks and 57 plain-text mentions). Replaces the v2.11 rule of the first header and first body mention only.
 - Contact form option reads "PlantON™ / industrial data". Alt text and meta descriptions are unchanged.
 - Builder: tools/v236_tm.py in the preview repo (re-runnable; skips mentions that already carry the mark).
+
+## v2.37 (27 Nov 2026): installed footprint on Global Presence (Rahul, 26 Nov)
+- Global Presence & Partners: new section "Where our systems run" after "Where we are": "Installed for customers in 12 countries." World map in the same projection as the presence map, the 12 countries shaded and a dot per installation region; list by area (Americas, Australia, Middle East, Asia, Europe): Canada (Ontario, Quebec), United States (California, Illinois), Mexico (Monterrey, Nuevo León), Australia (Sydney), Saudi Arabia (Riyadh, Jeddah), United Arab Emirates, Kuwait, India (North, South, East, West and Central), Sri Lanka (Colombo), Thailand, Belgium, United Kingdom.
+- End-user types in the agreed industry order; no customer names; "References are available on request".
+- Builder: tools/v237_footprint.py in the preview repo (country outlines in tools/v237_countries.json). Styles in `<style id="instron-v237">`. Tracker: FP-01 (implemented), FP-02 (open: Home link and per-country industry lines).
